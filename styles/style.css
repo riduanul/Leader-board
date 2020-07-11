@@ -1,0 +1,42 @@
+body {
+    background-color: #F3F1FF;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.logo-text {
+    color: #F3F1FF;
+    font-weight: 900;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+   }
+main{
+    max-width: 870px;
+}
+.player img {
+    width: 56px;
+    height: 56px;
+}
+.blog img{
+    width: 177px;
+    height: 150px;
+}
+.blog h4 p {
+    line-height: 45px;
+}
+
+.hr {
+    width: 750px;
+    height: 0px;
+    border: 1px solid #D1D1D1;
+}
+
+.t-color {
+    color:#562EFF;";
+}
+
+.course {
+    max-width: 870px;
+}
